@@ -32,7 +32,7 @@ Run the program:
 ```bash
 python main.py
 ```
-## 📸inal Pookalam
+## Final Pookalam
 ![Digital Pookalam](pookalam-screenshot.png)
 
 ## Happy Onam!
